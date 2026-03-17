@@ -2,7 +2,7 @@ from  encodings.aliases import aliases
 from tkinter.font import names
 stdmark=[]
 passedstd=[]
-for i in range(3):
+for i in range(5):
     names=str(input("Enter your name: "))
     mark=int(input("Enter your marks: "))
 
